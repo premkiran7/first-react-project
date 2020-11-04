@@ -1,5 +1,11 @@
 # first-react-project
+
 This is my first public react-project
+
+## References
+
+- https://glebbahmutov.com/blog/configure-prettier-in-vscode/
+- https://github.com/john-smilga/VS-CODE-SETUP
 
 ## Getting Started with Create React App
 
